@@ -19,6 +19,11 @@
 <img src="https://profile-counter.glitch.me/{Clhikari}/count.svg" />
 </p>
 
+💻 **Wakatime**
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## 😄Contact me
   - 🚀Welcome any interesting project cooperation/internship invitation
   - E-mail: Clhikari@qq.com
