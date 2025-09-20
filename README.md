@@ -4,13 +4,13 @@
 
 <br>
 
-## 💭 About Me
+💭 **About Me**
 
 -  🏫 A Sophomore Student
 -  🍕 Love Animes, programming，ACG culture
 -  🌌 Dream of becoming a Java backend engineer
 
-## 🍉 Skills
+🍉 **Skills**
 
 [![wakatime](https://wakatime.com/badge/user/b5fa9fdd-50fb-4d15-8df0-deae1c896269.svg)](https://wakatime.com/@b5fa9fdd-50fb-4d15-8df0-deae1c896269)
 ![](https://img.shields.io/badge/java-c47c1c)
@@ -22,11 +22,17 @@
 <img src="https://profile-counter.glitch.me/Clhikari/count.svg" />
 </p>
 
-## 💻 Wakatime
+ 💻 **Wakatime**
 <!--START_SECTION:waka-->
+
+
+
+
+
+
 
 <!--END_SECTION:waka-->
 
-## 😄 Contact me
+ 😄 **Contact me**
 - 🚀 Welcome any interesting project cooperation/internship invitation
 - E-mail: Clhikari@qq.com
