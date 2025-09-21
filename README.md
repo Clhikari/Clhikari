@@ -6,7 +6,7 @@
 
 💭 **About Me**
 
--  🏫 A Sophomore Student
+-  🏫 A Sophomore Student，I mainly write Java
 -  🍕 Love Animes, programming，ACG culture
 -  🌌 Dream of becoming a Java backend engineer
 
