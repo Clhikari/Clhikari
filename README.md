@@ -61,7 +61,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -69,11 +69,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.43 % 
-Python                   9 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
-JavaScript               2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Python                   13 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
+Other                    12 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   35.92 % 
+JavaScript               4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Java                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 
 
