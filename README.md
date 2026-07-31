@@ -61,7 +61,9 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%2043%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,6 +76,28 @@ TOML                     0 secs              ████░░░░░░░�
 Python                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 min (20.7%)
+
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+
+🔤 197,904 Input Tokens, 841 Output Tokens
+
+💵 $1.01 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
