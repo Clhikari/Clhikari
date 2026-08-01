@@ -71,33 +71,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████░░░░░░░░░░░░   53.51 % 
-TOML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Python                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-TypeScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (20.7%)
-
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
-
-🔤 197,904 Input Tokens, 841 Output Tokens
-
-💵 $1.01 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
