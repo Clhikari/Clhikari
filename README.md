@@ -61,7 +61,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-677%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%204%20mins-blue?style=flat)
 
@@ -71,16 +71,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    53 mins             ██████████████████████░░░   88.49 % 
-SRecode Template         6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Other                    1 hr 8 mins         ███████████████████░░░░░░   75.54 % 
+PowerShell               15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+SRecode Template         6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (43.37%)
+⏱ AI Coding Time: 26 mins (29.15%)
 
-✍️ 0 lines written by AI, 1,891 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,920 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
