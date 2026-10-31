@@ -61,9 +61,9 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-497%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-509%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -71,34 +71,34 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Markdown                 4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-TypeScript               3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-JavaScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-JSON                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+PowerShell               5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
+Other                    2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Python                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Text                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 37 mins (97.69%)
+⏱ AI Coding Time: 12 hrs 47 mins (94.95%)
 
-✍️ 52,595 lines written by AI, 27 lines written by hand (99.95% AI-written)
+✍️ 14,373 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 33,896,756 Input Tokens, 4,491,049 Output Tokens
+🔤 9,238,963 Input Tokens, 1,397,535 Output Tokens
 
-💵 $1778.74 Estimated AI Cost This Week
+💵 $663.44 Estimated AI Cost This Week
 
-🧠 207 AI Sessions, 182 AI Prompts
+🧠 96 AI Sessions, 86 AI Prompts
 
-GPT                      52,824 lines        █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      14,191 lines        █████████████████████████   98.23 % 
+GLM                      255 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 900 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 672 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.65% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
