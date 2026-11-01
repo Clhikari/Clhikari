@@ -65,41 +65,5 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-509%20hrs%2054%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-PowerShell               5 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
-Other                    2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Python                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Text                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 47 mins (94.95%)
-
-✍️ 14,373 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 9,238,963 Input Tokens, 1,397,535 Output Tokens
-
-💵 $663.44 Estimated AI Cost This Week
-
-🧠 96 AI Sessions, 86 AI Prompts
-
-GPT                      14,191 lines        █████████████████████████   98.23 % 
-GLM                      255 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 672 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
