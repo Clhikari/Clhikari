@@ -71,33 +71,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 3 mins        █████████████░░░░░░░░░░░░   50.97 % 
-PowerShell               1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Java                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 31 mins (96.11%)
-
-✍️ 11,312 lines written by AI, 42 lines written by hand (99.63% AI-written)
-
-🔤 12,210,588 Input Tokens, 1,682,358 Output Tokens
-
-💵 $760.03 Estimated AI Cost This Week
-
-🧠 89 AI Sessions, 134 AI Prompts
-
-GPT                      11,338 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📄 Detailed Prompter — average 542 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.47% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
